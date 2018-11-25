@@ -1,0 +1,2 @@
+to start tomcat and jenkins :~/Downloads/apache-tomcat-9.0.13/bin$ ./startup.sh 
+
